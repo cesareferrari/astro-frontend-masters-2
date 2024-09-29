@@ -2,6 +2,8 @@
 
 This is a companion repo for the [Astro course](https://frontendmasters.com/courses/astro/) on [Frontend Masters](https://frontendmasters.com).
 
+Made a change
+
 ## Setup
 
 The `start` branch from this repository contains some additional assets and is used as a starting point for the course:
